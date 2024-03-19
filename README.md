@@ -2,9 +2,7 @@
 
 I use this project to test things in a clean and minimal Nuxt 3 setup
 
-The base consist of 
-Nuxt 3
-- documentation [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction)
+## The base consist of
 
-Tailwind.css
-- documentation [Tailwind documentation](https://tailwindcss.com/docs/installation)
+Nuxt 3: [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction)
+Tailwind.css: [Tailwind documentation](https://tailwindcss.com/docs/installation)
